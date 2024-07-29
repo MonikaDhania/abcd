@@ -15,7 +15,7 @@ const App = () => {
   return (
     <div onClick={ChoseTheme} className ={`w-screen h-screen  flex justify-center ${theme?"bg-slate-700 text-white" :"bg-white text-black"}`}>
       <ChangeTheme />
-     {/* <button onClick={ChoseTheme} className=''>change theme </button> */}
+     {/* <button onClick={ChoseTheme} className=''>change theme.. </button> */}
     </div>
   )
 }
