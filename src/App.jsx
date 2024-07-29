@@ -5,7 +5,7 @@ import ChangeTheme from './ChangeTheme';
 import Navbar from './Navbar';
  
 
-//this is app
+
 
 
 const App = () => {
